@@ -5,7 +5,6 @@
 <img width="1279" alt="스크린샷 2023-08-14 073948" src="https://github.com/hyunsu3408/PhoneBookWepApp/assets/134042361/fb06ee4e-a580-4fe0-93b2-7dc5fa63a63c">
 <img width="1280" alt="스크린샷 2023-08-14 074007" src="https://github.com/hyunsu3408/PhoneBookWepApp/assets/134042361/6062224c-3e89-4000-a565-44b6f6d68f4b">
 <img width="1279" alt="스크린샷 2023-08-14 074028" src="https://github.com/hyunsu3408/PhoneBookWepApp/assets/134042361/a5e2e757-6f70-4e68-afe3-75cc0313796f">
-<img width="1280" alt="스크린샷 2023-08-14 074422" src="https://github.com/hyunsu3408/PhoneBookWepApp/assets/134042361/d6677180-1419-4c9d-948d-3444591d9d62">
 <img width="1280" alt="스크린샷 2023-08-14 074455" src="https://github.com/hyunsu3408/PhoneBookWepApp/assets/134042361/5e4867ab-03b2-4c5b-ba85-82a3394afaec">
 <img width="1280" alt="스크린샷 2023-08-14 074512" src="https://github.com/hyunsu3408/PhoneBookWepApp/assets/134042361/51d2dac3-4e53-471d-b441-2db3f309c614">
 <img width="1280" alt="스크린샷 2023-08-14 074624" src="https://github.com/hyunsu3408/PhoneBookWepApp/assets/134042361/40864f4e-60b2-46da-b347-066c56f3e9ef">
